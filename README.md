@@ -6,4 +6,4 @@ Antrenör Yönetimi olucak
 REST API kullanımı olucak
 Yapay zeka entegrasyonu olucak <br>
 
-Spor salonu yapılıyor %20
+Spor salonu yapılıyor %43
