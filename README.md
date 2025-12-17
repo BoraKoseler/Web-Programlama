@@ -7,3 +7,4 @@ REST API kullanımı olucak
 Yapay zeka entegrasyonu olucak <br>
 
 Spor salonu yapılıyor %100
+Antrenör Yönetimi olucak %40
