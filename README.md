@@ -11,3 +11,4 @@ Antrenör Yönetimi olucak %40 <br>
 Üye ve Randevu sistemi olucak %50 <br>
 REST API kullanımı %60 <br>
 Yapay zeka entegrasyonu %10 <br>
+Son gün atılacak tüm kodlar
